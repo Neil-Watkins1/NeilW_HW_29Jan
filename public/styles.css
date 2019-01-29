@@ -1,0 +1,20 @@
+
+
+nav ul {
+
+  display: flex;
+  justify-content: flex-start;
+}
+
+nav li {
+  display: flex;
+  width: 150px;
+  height: 30px;
+
+}
+nav form {
+
+  display: flex;
+
+  justify-content: space-between;
+}
